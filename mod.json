@@ -1,0 +1,12 @@
+{
+	"geode": "5.10.1",
+	"gd": {
+		"android": "2.2081"
+	},
+	"id": "gdhisbest.idkbot",
+	"name": "idkbot",
+	"version": "v0.1.0",
+	"developer": "GDHisbest",
+	"description": "Macro bot with a tiny vanilla macro format: inputs only, no fixes.",
+	"tags": ["gameplay", "utility"]
+}
